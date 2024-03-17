@@ -1,0 +1,25 @@
+.header {
+  
+  background-color: bisque;
+  color: black;
+
+}
+
+.myPic {
+
+  width: 220px;
+  height: 320px;
+
+}
+
+.body {
+
+  background-color: lightgray;
+
+}
+
+.footer {
+
+  background-color: lightblue;
+
+}
